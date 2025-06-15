@@ -1,1 +1,7 @@
-
+TUTORIAL NaiveBayes:
+AIMS: Implementing Naive Bayes classifier
+Tasks:
+-go to example of Naive Bayes classifier in https://colab.research.google.com/github/jakevdp/
+PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb
+-pass through the example, make notebook,
+-make own case of Naive Bayes by using some exoplanet data

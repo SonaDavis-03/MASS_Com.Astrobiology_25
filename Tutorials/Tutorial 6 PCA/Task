@@ -1,1 +1,10 @@
+TUTORIAL PCA: Feature selection and dimensionality reduction
+AIMS: Introduce Principal component analysis for feature selection and data dimensionality
+reduction
+Tasks:
+-pass through the notebook https://colab.research.google.com/github/jakevdp/
 
+PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-
+Analysis.ipynb
+
+-could you make innovations in the notebook

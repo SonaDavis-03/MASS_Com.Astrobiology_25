@@ -1,1 +1,10 @@
-
+AIMS: Simple Artificial neural network technique applied on classification of exoplanets using
+programs by Data analyst Nagesh Singh Chauhan
+Tasks:
+• use the same reporistory as in Tutorial 3
+• go to exoplanet_ANN.py and try to make ipynb of it, also take a look at article linked in repo
+which may help; the aim is that you understand each line of the code, make printing of
+intermediate results, and if unknown command is encountered than to go to the online sources
+to understand its meaning
+• -could you make some innovations in the ipynb such us new functions, plots, import other data
+etc...

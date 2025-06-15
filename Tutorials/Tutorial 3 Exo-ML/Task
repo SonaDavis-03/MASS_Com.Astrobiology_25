@@ -1,1 +1,17 @@
+TUTORIAL 3:
+AIMS: Some of Machine learning techniques applied on classification of exoplanets using
+programs by Data analyst Nagesh Singh Chauhan
+Tasks:
+• -create a new repository on your github account which name will be EXOPLANETS_ML
+https://docs.github.com/en/get-started/quickstart/create-a-repo
 
+• clone Nagesh Singh Chauhan exoplanet repo https://github.com/nageshsinghc4/Exoplanet-
+exploration s into your github EXOPLANETS_ML Repo using instructions in
+
+GITHUB_CLONE.pdf
+• -when cloning is done, go to exoplanet-exploration-using-ml.ipynb and be sure to run through
+the notebook; the aim is that you understand each line of the code, make printing of
+intermediate results, and if unknown command is encountered than to go to the online sources
+to understand its meaning
+• -could you make some innovations in the ipynb such us new functions, plots, import other data
+etc...
